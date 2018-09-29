@@ -1,3 +1,28 @@
+Stuff to Remember
+
+firebase init
+
+    dist
+ng build --prod
+
+
+firebase list
+firebase deploy --project     ng-fitness-tracker-6483f
+firebase hosting:disable --project  ng-fitness-tracker-6483f
+
+
+<script src="https://www.gstatic.com/firebasejs/5.5.1/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    
+  };
+  firebase.initializeApp(config);
+</script>
+
+
+
+
 # FitnessTracker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
